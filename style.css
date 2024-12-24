@@ -1,0 +1,57 @@
+section.main.css-uf99v8.egzxvld5 {
+    background: rgb(51, 0, 67);
+}
+header.css-1avcm0n.e8zbici2 {
+    background: rgb(110, 0, 114);
+}
+span.css-10trblm.e16nr0p30 {
+    background:rgb(110, 0, 114);
+    padding: 1rem;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 1000px;
+}
+.st-bd.st-be.st-bx.st-by.st-bz.st-b3.st-c0.st-c1.st-bf.st-c2.st-c3.st-c4.st-c5 {
+    background: rgb(77, 0, 79);
+    border-radius: 10px;
+    padding-left: 1rem;
+}
+button.css-b3z5c9.edgvbvh10 {
+    background: rgb(168, 0, 174);
+    border-radius: 20px;
+    padding: 10px auto;
+    transition: all ease-in-out 300ms;
+}
+button.css-b3z5c9.edgvbvh10:hover {
+    color: black;
+    background: rgb(255, 198, 254);
+}
+.css-1r6slb0.e1tzin5v1 {
+    background: rgba(255, 255, 255, 0.1);
+   
+    padding: 1rem;
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: rgba(178, 3, 175, 0.715);
+    border-width: 2px;
+    width: 100%;
+    text-align: center;
+}
+img {
+    border-radius: 20px;
+}
+.css-183lzff.eyqtai90 {
+    text-align: center;
+    font-family: "Cambria";
+    font-weight: 200px;
+    border-style: dotted;
+    font-size: 15px;
+    padding: 0.6rem 0.5rem;
+    margin: auto;
+    background: rgb(90, 0, 93);
+    border-width: 2px;
+    border-color: rgba(209, 0, 209, 0.571);
+    width: 100%;
+    border-radius: 10px;
+    
+}
